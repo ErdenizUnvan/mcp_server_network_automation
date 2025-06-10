@@ -12,6 +12,10 @@ download facebook/bart-large-mnli model from hugginf face to your local env.:
 
 python compare_intent_model_save.py
 
+make sure ollama is working on your local env.:
+
+for details check: setting up ollama for local llama.ipynb
+
 pip install llama_index
 
 pip install llama-index-llms-ollama
