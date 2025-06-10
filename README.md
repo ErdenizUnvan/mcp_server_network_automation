@@ -12,6 +12,10 @@ download facebook/bart-large-mnli model from hugginf face to your local env.:
 
 python compare_intent_model_save.py
 
+pip install llama_index
+
+pip install llama-index-llms-ollama
+
 pip install langchain_core
 
 pip install --upgrade --force-reinstall langgraph
