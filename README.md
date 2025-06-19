@@ -8,6 +8,10 @@ pip install huggingface_hub
 
 pip install transformers
 
+pip install torch
+
+pip install tensorflow
+
 download facebook/bart-large-mnli model from hugginf face to your local env.:
 
 python compare_intent_model_save.py
@@ -39,6 +43,12 @@ pip install llama_index
 pip install llama-index-llms-ollama
 
 pip install uv
+
+pip install ldap3
+
+pip install gradio --upgrade
+
+pip install netmiko
 
 at one terminal run:
 
