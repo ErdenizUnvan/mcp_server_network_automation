@@ -44,10 +44,6 @@ pip install llama-index-llms-ollama
 
 pip install uv
 
-pip install ldap3
-
-pip install gradio --upgrade
-
 pip install netmiko
 
 at one terminal run:
